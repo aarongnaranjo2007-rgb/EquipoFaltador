@@ -18,3 +18,10 @@
 
 
 ## Calidad
+Todo cambio deberá realizarse mediante un issue, una rama y un Pull Request. No se permitirán cambios directos en la rama main.
+
+Cada Pull Request deberá tener una descripción clara, estar relacionado con un issue y contar con al menos una revisión aprobada por otro integrante del equipo.
+
+Antes de solicitar la revisión, la persona autora comprobará que el cambio funciona correctamente y que cumple lo acordado. El revisor comprobará el contenido, la estructura y que no se hayan modificado partes innecesarias del proyecto.
+
+La persona que crea el Pull Request no podrá hacer su propio merge.
