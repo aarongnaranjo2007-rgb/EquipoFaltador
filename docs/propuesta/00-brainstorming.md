@@ -5,7 +5,7 @@
 * *Para quién:*
 * *Por qué merece la pena:*
 
-# Alvaro
+# Álvaro
 ## Idea:
 
 * *Qué problema resuelve:*
