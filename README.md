@@ -6,6 +6,7 @@ Repositorio oficial y espacio de trabajo de nuestro estudio.
 * Aarón González Naranjo ([@aarongnaranjo2007-rgb](https://github.com/aarongnaranjo2007-rgb))
 * Gabriel Romero Sánchez ([@gromerosanchez](https://github.com/gromerosanchez))
 * David Muñoz Valdes ([@David-dev03](https://github.com/David-dev03))
+* Alvaro Escalona ([@Alvaro-Escalona](https://github.com/Alvaro-Escalona))
 
 ## Gestión y Documentación
 * **Tablero de tareas:** [GitHub Projects - Tablero](https://github.com/users/aarongnaranjo2007-rgb/projects/3)
