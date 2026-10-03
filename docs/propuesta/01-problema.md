@@ -59,7 +59,108 @@ Estas respuestas validan que la aplicación no debe recomendar únicamente por g
 
 ## 2. Usuarios objetivo
 
+Las personas usuarias objetivo se han definido a partir del cuestionario realizado a jugadores habituales. Se han creado dos perfiles con situaciones de uso diferentes: una persona que utiliza la aplicación principalmente para decidir qué jugar sola y otra que la utiliza para encontrar un juego compatible con un grupo.
 
+### User persona 1 — Alex Morales
+
+> Persona basada en un usuario real entrevistado. Se utiliza un nombre ficticio para preservar su privacidad.
+
+| Campo | Descripción |
+|---|---|
+| Edad | 22 años |
+| Ocupación | Frigorista |
+| Ubicación | Estepona |
+| Dispositivo principal | PC gaming |
+| Launcher habitual | Steam |
+| Frecuencia de juego | Juega habitualmente, principalmente por las tardes y noches |
+| Contexto de uso | Juega principalmente solo; de forma ocasional juega con amigos mediante Discord |
+
+> “Tengo un montón de juegos, pero no sé a qué jugar y al final acabo entrando en lo mismo de siempre.”
+
+#### Necesidades
+
+- Elegir un juego individual en pocos minutos, sin tener que investigar durante mucho tiempo.
+- Encontrar juegos que encajen con su estado de ánimo, género preferido y tiempo libre disponible.
+- Descubrir títulos de su biblioteca que había olvidado o dejado sin terminar.
+- Saber rápidamente si un juego requiere partidas cortas o una sesión más larga.
+- Usar la aplicación sin tener que registrarse, instalar programas adicionales ni conceder permisos innecesarios.
+
+#### Frustraciones
+
+- Tiene demasiados juegos y la cantidad de opciones le genera indecisión.
+- Pierde tiempo revisando Steam sin llegar a iniciar ningún juego.
+- Acaba jugando siempre a los mismos títulos por ser una elección segura.
+- Las recomendaciones generales no tienen en cuenta qué le apetece jugar ese día.
+- Puede aburrirse rápidamente si el juego elegido no encaja con el tiempo o la experiencia que busca.
+- Desconfía de conectar su cuenta si la aplicación solicita acceso excesivo a sus datos.
+
+#### Objetivos
+
+- Decidir a qué jugar en menos de cinco minutos.
+- Aprovechar mejor los juegos que ya posee y descubrir otros que le puedan interesar.
+- Dedicar su tiempo libre a jugar, no a buscar o comparar opciones.
+- Tener una recomendación clara y explicada, con posibilidad de pedir otra alternativa.
+
+#### Casos de uso principales
+
+1. Alex llega a casa, abre la aplicación y selecciona `Jugar solo`.
+2. Indica el género que le apetece, la plataforma y el tiempo que tiene disponible.
+3. Pulsa el botón `Sorpréndeme` para recibir una recomendación.
+4. Consulta la portada, la valoración, el tiempo estimado de sesión y el motivo de la recomendación.
+5. Guarda el juego en favoritos, lo descarta o pide otra opción.
+6. Abre la ficha del juego y utiliza el enlace para buscarlo en Steam.
+
+---
+
+### User persona 2 — Laura Torres
+
+> Persona secundaria construida a partir de patrones observados en el cuestionario de usuarios.
+
+| Campo | Descripción |
+|---|---|
+| Edad | 20 años |
+| Ocupación | Estudiante |
+| Dispositivo principal | PC gaming y móvil |
+| Launchers habituales | Steam y Epic Games |
+| Frecuencia de juego | Juega varias veces por semana |
+| Contexto de uso | Se conecta por Discord con un grupo variable de entre 3 y 6 amistades |
+
+> “Si somos varios, quiero que me diga juegos que podamos jugar todos; no uno para cuatro cuando estamos seis en Discord.”
+
+#### Necesidades
+
+- Encontrar juegos compatibles con todas las personas conectadas.
+- Indicar cuántas personas van a jugar antes de recibir una recomendación.
+- Filtrar por modo cooperativo o competitivo, género y plataforma.
+- Evitar propuestas que no admitan al número de jugadores del grupo.
+- Decidir rápido para empezar a jugar en lugar de debatir durante media hora.
+
+#### Frustraciones
+
+- Sus amistades no siempre tienen comprados los mismos juegos.
+- Las recomendaciones genéricas no indican claramente el número máximo de jugadores.
+- Los gustos del grupo no siempre coinciden.
+- Tras debatir durante demasiado tiempo, el grupo termina jugando siempre a los mismos títulos o cada persona juega por separado.
+- No quiere iniciar sesión ni dar permisos a Steam/Epic si la aplicación no explica claramente qué información usará.
+
+#### Objetivos
+
+- Encontrar una opción viable para todo el grupo en pocos minutos.
+- Evitar discusiones y reducir el tiempo que tardan en decidir.
+- Descubrir opciones nuevas, no repetir siempre los mismos juegos.
+- Conocer de un vistazo si un juego es cooperativo, competitivo, compatible con el grupo y está disponible en la plataforma elegida.
+
+#### Casos de uso principales
+
+1. Laura está en una llamada de Discord con cuatro amistades y abre la aplicación.
+2. Selecciona `Jugar con amigos`.
+3. Indica que son cinco jugadores.
+4. Marca `Competitivo` o `Cooperativo`, selecciona un género y elige `PC / Steam`.
+5. Pulsa `Elegir por el grupo`.
+6. Revisa recomendaciones compatibles con cinco jugadores.
+7. El grupo abre los detalles del juego, guarda una opción o pide otra recomendación.
+
+---
 
 ## 3. Análisis de competencia
 
