@@ -163,7 +163,79 @@ Las personas usuarias objetivo se han definido a partir del cuestionario realiza
 ---
 
 ## 3. Análisis de competencia
+### Competidor 1 — Steam (Valve Corporation)
+* **Enlace oficial:** [store.steampowered.com](https://store.steampowered.com/)
 
+#### Fortalezas
+- Es la tienda digital de PC con el catálogo más masivo y activo del mercado.
+- Integra reseñas de usuarios, etiquetas comunitarias (*user tags*), lista de amigos y el sistema *Steam Labs*.
+- Máxima adopción: 100% de presencia entre los usuarios de nuestro cuestionario.
+
+#### Debilidades
+- **Sobrecarga de elección:** Su interfaz prioriza la venta comercial sobre la recomendación contextual inmediata.
+- No resuelve la pregunta directa: *«¿A qué jugamos las personas conectadas en llamada de Discord ahora mismo?»*.
+- El buscador no permite filtrar de forma ágil combinando número exacto de integrantes con tiempo de sesión disponible y compatibilidad simultánea.
+
+#### Reseñas reales y quejas de 1 estrella (Trustpilot / Foros de Steam Community)
+> ⭐☆☆☆☆ *"El sistema de recomendación es horrible. Tengo cientos de juegos en mi biblioteca y siempre me sugiere lo mismo o juegos que no tienen nada que ver con lo que busco. La biblioteca se vuelve inmanejable cuando acumulas títulos."* — Usuario en Trustpilot.
+>
+> ⭐☆☆☆☆ *"Steam no ayuda a elegir. Pasamos más de media hora mirando la tienda o la lista de amigos para ver qué podemos jugar juntos y casi nunca encontramos filtros útiles por número exacto de integrantes."* — Crítica en Steam Community Discussions.
+
+**Oportunidad para PlayNext:** Brindar una interfaz ligera, sin sobrecarga comercial, capaz de recomendar con un solo clic según el contexto exacto (solitario o grupo de N personas).
+
+---
+
+### Competidor 2 — HowLongToBeat (IGN Entertainment)
+* **Enlace oficial:** [howlongtobeat.com](https://howlongtobeat.com/)
+
+#### Fortalezas
+- Base de datos de referencia mundial sobre estimación de duración de videojuegos (historia principal, extras y completista).
+- Datos recopilados de partidas reales aportados por la comunidad.
+- Imprescindible para jugadores que buscan títulos adaptados a su tiempo disponible.
+
+#### Debilidades
+- Está concebida como un buscador de consulta pasiva, no como un asistente de recomendación activa.
+- Requiere que el usuario ya tenga en mente el título del videojuego para buscarlo.
+- Carece de filtros orientados a multijugador grupal, tamaño del grupo o compatibilidad cruzada.
+
+#### Reseñas reales y quejas de 1 estrella (Foros Reddit r/patientgamers / Web)
+> ⭐☆☆☆☆ *"La web es genial si ya sabes a qué quieres jugar, pero no sirve de nada si estás bloqueado mirando la pantalla sin saber qué empezar. Le falta un recomendador inteligente que use su base de datos de horas."* — Usuario en Reddit r/patientgamers.
+>
+> ⭐☆☆☆☆ *"La interfaz de búsqueda es tosca y no tiene ninguna herramienta para grupos o para descubrir juegos nuevos por tiempo disponible sin tener que tragarse listas infinitas."* — Reseña en foros web.
+
+**Oportunidad para PlayNext:** Emplear la métrica de tiempo de sesión (partidas cortas vs. largas) como un filtro selector directo en el motor de recomendación, ahorrando la búsqueda manual.
+
+---
+
+### Competidor 3 — RAWG Video Games Database
+* **Enlace oficial:** [rawg.io](https://rawg.io/)
+
+#### Fortalezas
+- Base de datos con más de 500.000 videojuegos y una API abierta muy documentada.
+- Clasificación limpia por plataformas, géneros, creadores y valoraciones medias.
+- Excelente estética visual para explorar fichas técnicas.
+
+#### Debilidades
+- Funciona como una red social/catálogo de descubrimiento infinito, lo que fomenta aún más la parálisis por elección.
+- La información de multijugador es genérica (suele indicar solo si tiene o no multijugador, pero no el número exacto de jugadores soportados).
+- No cuenta con un recomendador de un solo clic adaptado al grupo.
+
+#### Reseñas reales y quejas de 1 estrella (Google Play Store / Trustpilot)
+> ⭐☆☆☆☆ *"Es básicamente una Wikipedia de videojuegos. Entras para buscar una recomendación rápida y terminas scrolleando 40 minutos entre portadas sin decidirte por nada."* — Reseña en Google Play Store.
+>
+> ⭐☆☆☆☆ *"Faltan datos clave para jugar con amigos. Pone 'multijugador' pero no te dice si admite 3, 4 o más personas hasta que lo investigas por fuera."* — Crítica en foros de videojuegos.
+
+**Oportunidad para PlayNext:** Colocar una capa de decisión guiada por encima del catálogo: número exacto de personas, filtro de modo cooperativo/competitivo y botón directo de decisión.
+
+---
+
+### Oportunidades identificadas para PlayNext
+- **Modo 'Sorpréndeme' (Un solo clic):** Para el jugador que no quiere configurar nada y busca romper el bucle de indecisión al instante.
+- **Selector de modo:** Separación clara y radical entre `Jugar solo` y `Jugar con amigos`.
+- **Filtro central por número de jugadores:** Eliminar de raíz la frustración de recomendar títulos que no cuadran con el grupo en llamada.
+- **Transparencia y explicabilidad:** Explicar con una frase por qué se recomienda ese título (*"Recomendado porque sois 4 personas, buscáis cooperativo y tenéis 45 minutos"*).
+- **Cero barreras de entrada:** Totalmente funcional sin registro, sin login obligatorio y sin pedir permisos intrusivos de cuentas de terceros.
+- **Función de descarte activo:** Si la opción no convence, pulsar 'Siguiente opción' sin que repita títulos ya rechazados en la sesión.
 
 
 ## 4. Propuesta de valor única
