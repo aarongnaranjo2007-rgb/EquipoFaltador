@@ -43,11 +43,11 @@ Se basa en una aplicación de semana santa de cadiz, en la aplicación hay un ap
 Por ultimo la aplicación tensría un apartado "comunidad" donde muestra las incidencias que van sucediendo, por ejemplo, retrasos en la salida, algun baral del palio roto, pelea entre cargadores, ...
 
 ## Qué problema resuelve:
-Resuelve el desconocimiento de donde se encuentra la hermandad, retrasos y la información de cada cofradía*
+Resuelve el desconocimiento de donde se encuentra la hermandad, retrasos y la información de cada cofradía
 
 ## Para quién:
-Para el públicco capillita, independiente de la edad*
+Para el públicco capillita, independiente de la edad
 
 ## Por qué merece la pena:
-Porque es una app interactiva y muy visual donde cualquier público es capaz de entender que hace la app*
+Porque es una app interactiva y muy visual donde cualquier público es capaz de entender que hace la app
 
