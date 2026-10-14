@@ -354,14 +354,20 @@ En el portátil, en el escritorio a mediodía.
 
 ### Problema actual
 
-A jugadores habituales de PC les cuesta decidir qué videojuego jugar porque tienen demasiadas opciones. Hoy suelen navegar por Steam, buscar listas genéricas o preguntar en Discord, pero estas soluciones no combinan de forma rápida su contexto actual: si están solos o con amigos, cuántas personas son, qué plataforma usan, qué género quieren y cuánto tiempo tienen.
+A personas con ingresos ajustados les cuesta saber cuánto pueden gastar cada semana. Hoy usan apps que o se conectan al banco (y no quieren dar las credenciales) o exigen apuntar cada gasto (y lo abandonan a los pocos días).
 
 ### Propuesta de valor
 
-> A los jugadores de PC que no saben a qué jugar les ocurre que pierden tiempo navegando entre bibliotecas grandes o discutiendo con amigos. Hoy usan Steam, Epic, búsquedas y Discord, pero esas herramientas no les dan una recomendación inmediata según su situación. PlayNext ofrece recomendaciones de videojuegos explicables y aleatorias, filtradas por modo individual o grupo, número de jugadores, plataforma, género y tiempo disponible.
+> A personas con ingresos ajustados *les pasa que* no saben cuánto pueden gastar cada semana sin cargarse el ahorro, y los imprevistos se lo comen sin darse cuenta. *Hoy usan* apps que o se conectan al banco (y no quieren dar las credenciales) o exigen apuntar cada gasto (y lo abandonan a los pocos días). *Nosotros les damos* un número semanal que se memoriza, un registro opcional de 2 toques y un colchón que absorbe los imprevistos sin tocar el ahorro.
 
 ### Diferenciación
 
-PlayNext no pretende sustituir Steam, Epic Games ni una base de datos de videojuegos. Su objetivo es resolver un momento muy concreto: *elegir rápidamente qué jugar ahora*.
+KUBO no pretende sustituir a las apps de presupuesto ni a los bancos. Su objetivo es resolver un momento muy concreto: *saber cuánto puedes gastar esta semana*. El resto sobra.
 
-El MVP permite usar la aplicación sin cuenta y guarda favoritos y descartados de forma local. La integración con bibliotecas de Steam/Epic y el cálculo de títulos compartidos se plantean como evolución futura, porque los usuarios muestran interés, pero también preocupación por seguridad y permisos.
+### Por qué merece la pena
+
+- *Diferencial claro:* elimina las dos causas más comunes de abandono (pereza de apuntar y miedo a dar acceso al banco).
+- *El ahorro va primero:* al restar el objetivo antes de calcular el ritmo semanal, el ahorro deja de ser un deseo de fin de mes.
+- *Colchón tangible:* convierte un abstracto ("ten un fondo de emergencia") en algo concreto con reglas visibles.
+- *MVP mínimo:* un número semanal, un registro opcional de 2 toques y una cuadración con colchón.
+
